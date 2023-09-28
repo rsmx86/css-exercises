@@ -1,0 +1,32 @@
+.oddnumb {
+    background-color: rgb(247, 105, 223);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+
+.fntsize24 {
+    font-size: 24px;
+    
+}
+
+#hslbold{
+    background-color: hsl(26, 100%, 65%);
+    font-weight: bold;
+}
+
+#blue36px
+    {
+        color: blue;
+        font-size: 36px;
+    }
+
+.fntitalic
+    {
+        font-style: italic;
+    }
+
+#idtest
+    {
+        font-stretch: extra-expanded;
+        font-size: 52px;
+    }   
+
